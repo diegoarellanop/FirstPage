@@ -1,0 +1,50 @@
+*{
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+} 
+
+body{
+	background-image: url("../img/gallina.jpeg");
+	background-size: cover;
+	background-color: #cccccc;
+}
+
+div{
+	margin: 15px;
+   	padding: 15px;
+}
+
+h1 {
+    text-align: left;
+    color: white
+}
+
+h2 {
+    text-align: left;
+    color: white
+}
+
+h4 {
+    text-align: left;
+    color: white
+}
+
+p {
+    text-align: right;
+    color: white
+}
+
+footer {
+    background-color: rgba(255,255,255,.5);
+    text-align: left;
+    position: absolute;
+    bottom: 0px;
+    width:100%;
+    padding: 20px;
+    box-sizing: border-box;
+    color: black
+}
+
+#cita {
+	font
+}
+
